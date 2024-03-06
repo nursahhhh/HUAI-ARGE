@@ -1,2 +1,2 @@
 # AI_projects
-Lab and HUAIClub projects about ML
+HUAIClub projects about ML
